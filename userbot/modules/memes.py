@@ -403,7 +403,7 @@ GEY_STRINGS = [
      "`you gey in the house`",
      "`you chakka`",
      "`Bhago BC! Chakka aya`",
-     "`you gey gey gey gey gey gey gey gey`",
+     "`Abe jaa naa chhakke bsdk`",
      "`you gey go away`",
 ]
 PRO_STRINGS = [
@@ -471,7 +471,7 @@ ABUSEHARD_STRING = [
 ]
 HELLOSTR = [
     "`Hi !`",
-    "`‘Ello, gov'nor!`",
+    "`‘Jay Hind Dosto`",
     "`What’s crackin’?`",
     "`‘Sup, homeslice?`",
     "`Howdy, howdy ,howdy!`",
@@ -932,7 +932,7 @@ async def hack(hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted User was Hacked successfully 👨‍💻......`"
-                "`Pay 999$ To` @devpatel_73 `To Remove This Hack`\n"
+                "`Pay 999$ To` @BlacK_PantheR_xD `To Remove This Hack`\n"
             )
 
 			  
